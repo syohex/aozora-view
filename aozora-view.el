@@ -8,6 +8,7 @@
 ;; Keywords: text
 ;; Human-Keywords: aozora bunko
 ;; URL: https://github.com/kawabata/aozora-view
+;; Package-Requires: ((emacs "24"))
 
 ;; This program is free software; you can redistribute it and/or
 ;; modify it under the terms of the GNU General Public License
